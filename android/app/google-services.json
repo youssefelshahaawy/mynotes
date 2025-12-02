@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984295087164",
+    "project_id": "elshosh-first-project-3dbf7",
+    "storage_bucket": "elshosh-first-project-3dbf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984295087164:android:9a6f48b0f8a08869367739",
+        "android_client_info": {
+          "package_name": "com.elshosh.myfirstproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWNTp8-DQZfAUMN0mzdB3kEC0mMVHmY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
